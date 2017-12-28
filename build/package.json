@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "less": "^2.7.3",
+    "uglify-es": "^3.3.0"
+  }
+}
+
